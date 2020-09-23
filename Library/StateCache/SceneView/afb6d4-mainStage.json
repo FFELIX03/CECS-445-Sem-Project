@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":231.5,"y":200.625,"z":0.0},"rotation":{"x":-0.0371805801987648,"y":0.0074901762418448929,"z":0.0002784605312626809,"w":0.9992818236351013},"size":307.0938720703125,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":816.11279296875,"y":716.23046875,"z":-614.6552734375},"rotation":{"x":-0.284185528755188,"y":0.533807098865509,"z":-0.19655664265155793,"w":-0.7717922925949097},"size":21893.619140625,"orthographic":false}
+>>>>>>> Brandon-branch-445project
