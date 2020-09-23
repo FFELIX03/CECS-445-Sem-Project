@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225740540929",
+    "firebase_url": "https://spicy-chess.firebaseio.com",
+    "project_id": "spicy-chess",
+    "storage_bucket": "spicy-chess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225740540929:android:1cdc82534718566f910400",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SpicyChessGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225740540929-kbr3ot8mp1pj9c9gipvd6pbk9ojc585a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkb_SPfuTyhear8IPiJc4aArMvTu3qbG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225740540929-kbr3ot8mp1pj9c9gipvd6pbk9ojc585a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
