@@ -30,7 +30,7 @@ public class Register : MonoBehaviour {
 
     public void RegisterButton() {
         print(Password);
-        if(Password!=" " && Email!=" " && ConfPass!=" " && (Password == ConfPass))
+        if(Password!="" && Email!="" && ConfPass!="" && (Password == ConfPass))
         {
             auth.CreateUserWithEmailAndPasswordAsync(Email, Password).ContinueWith(task => {
                 if (task.IsCanceled) {

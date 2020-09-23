@@ -616,7 +616,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee6e327f2e5fd1e448d53735bc1bd58e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  userName: {fileID: 0}
   email: {fileID: 575749692}
   password: {fileID: 1204436359}
   confPass: {fileID: 1674341065}
@@ -1652,8 +1651,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1674341068}
   m_TextComponent: {fileID: 1149544172}
   m_Placeholder: {fileID: 37984854}
-  m_ContentType: 0
-  m_InputType: 0
+  m_ContentType: 7
+  m_InputType: 2
   m_AsteriskChar: 42
   m_KeyboardType: 0
   m_LineType: 0
